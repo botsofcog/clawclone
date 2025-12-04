@@ -1,0 +1,7 @@
+{
+  "name": "ClawOS - Arduino Configurator",
+  "description": "A commercial-grade dashboard to simulate, configure, and generate optimized C++ firmware for Arduino Uno-based claw machines.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
